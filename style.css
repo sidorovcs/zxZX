@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+ text-decoration: none;
+ border: blue solid ;
+ 
+font-size: 25px;
+
+
+
+
+   
+}
+
+
+nav{
+padding-top: 25px;
+border: blue solid;
+padding-bottom: 25px;
+
+
+
+
+
+}
+
+.link-nav{
+padding-left: 75px;
+text-decoration: none;
+color: blue;
+
+   
+}
+.qwerty{
+text-align: center;
+text-shadow: black;
+}
+footer{
+    background-color: blue;
+}
+.vk{
+    background-color: blue
+}
+    
+}
